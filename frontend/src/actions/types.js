@@ -1,0 +1,12 @@
+export const UPDATE_WS = 'UPDATE_WS';
+export const CLIENTS_UPDATED = 'CLIENTS_UPDATED';
+export const STREAMS_UPDATED = 'STREAMS_UPDATED';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const MODAL_TAB = 'MODAL_TAB';
+export const CHOOSE_CATEGORY = 'CHOOSE_CATEGORY';
+export const RESET_CATEGORY = 'RESET_CATEGORY';
+export const HASS_CONN_UPDATED = 'HASS_CONN_UPDATE';
+export const HASS_EVENT = 'HASS_EVENT';
+export const ENTITIES_UPDATED = 'ENTITIES_UPDATED';
+export const CONFIG_UPDATED = 'CONFIG_UPDATED';

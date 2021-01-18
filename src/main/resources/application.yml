@@ -1,0 +1,26 @@
+snapcast:
+  host: 192.168.1.X
+  port: 1705
+  volumeIncrement: 5
+
+mopidy:
+  host: 192.168.1.X
+  instances:
+    - name: mopidy1
+      port: 6680
+    - name: mopidy3
+      port: 8889
+
+frontend:
+  hassUrl:
+  hassAccessToken:
+
+spotify:
+  client:
+    id:
+    secret:
+
+logging:
+  level:
+    com:
+      jeradmeisner: DEBUG
